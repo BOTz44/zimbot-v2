@@ -33,15 +33,15 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['6282142185506',''] //owner number +27634090203
+global.pemilik = ['6282142185506'] //owner number +27634090203
+global.premium = ['6282142185506'] //premium number +27634090203
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.footer = 'Yui-Chan'
+global.botnma = 'Yui-Chan' //bot name
+global.ownernma = 'Ang' //owner name
+global.packname = 'Yui' //sticker package name
+global.author = 'ope ang' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -58,7 +58,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: 25 //free user limit
 }
 global.rpg = {
 darahawal: 100,
